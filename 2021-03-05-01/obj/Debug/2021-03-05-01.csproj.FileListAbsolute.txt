@@ -1,0 +1,31 @@
+D:\VSProjects\2021-03-05-01\2021-03-05-01\bin\Debug\2021-03-05-01.exe.config
+D:\VSProjects\2021-03-05-01\2021-03-05-01\bin\Debug\2021-03-05-01.exe
+D:\VSProjects\2021-03-05-01\2021-03-05-01\bin\Debug\2021-03-05-01.pdb
+D:\VSProjects\2021-03-05-01\2021-03-05-01\obj\Debug\2021-03-05-01.csprojAssemblyReference.cache
+D:\VSProjects\2021-03-05-01\2021-03-05-01\obj\Debug\2021-03-05-01.csproj.CoreCompileInputs.cache
+D:\VSProjects\2021-03-05-01\2021-03-05-01\obj\Debug\2021-03-05-01.exe
+D:\VSProjects\2021-03-05-01\2021-03-05-01\obj\Debug\2021-03-05-01.pdb
+D:\VSProjects\2021-03-22-01\2021-03-05-01\bin\Debug\2021-03-05-01.exe.config
+D:\VSProjects\2021-03-22-01\2021-03-05-01\bin\Debug\2021-03-05-01.exe
+D:\VSProjects\2021-03-22-01\2021-03-05-01\bin\Debug\2021-03-05-01.pdb
+D:\VSProjects\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.csprojAssemblyReference.cache
+D:\VSProjects\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.csproj.CoreCompileInputs.cache
+D:\VSProjects\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.exe
+D:\VSProjects\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.pdb
+D:\VSProjects\2021-03-22-01\2021-03-05-01\bin\Debug\EntityFramework.dll
+D:\VSProjects\2021-03-22-01\2021-03-05-01\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProjects\2021-03-22-01\2021-03-05-01\bin\Debug\EntityFramework.xml
+D:\VSProjects\2021-03-22-01\2021-03-05-01\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProjects\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.csproj.CopyComplete
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\bin\Debug\2021-03-05-01.exe.config
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\bin\Debug\2021-03-05-01.exe
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\bin\Debug\2021-03-05-01.pdb
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\bin\Debug\EntityFramework.dll
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\bin\Debug\EntityFramework.xml
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.csproj.CopyComplete
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.exe
+D:\Project\Visual Studio Project\Pemrogramman Berorientasi Object A\2021-03-22-01\2021-03-05-01\obj\Debug\2021-03-05-01.pdb
